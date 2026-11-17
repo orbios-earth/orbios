@@ -6,7 +6,7 @@
 
 **A living globe of the Earth.**
 
-[orbios.earth](https://orbios.earth) · [orbios.net](https://orbios.net) · [YouTube](https://www.youtube.com/@orbios_earth) · [Telegram](https://t.me/orbios_earth) · [X](https://x.com/orbios_earth) · [press](https://orbios.net/press/)
+[orbios.earth](https://orbios.earth) · [orbios.net](https://orbios.net) · [YouTube](https://www.youtube.com/@orbios_earth) · [Telegram](https://t.me/orbios_earth) · [X](https://x.com/orbios_earth) · [Instagram](https://www.instagram.com/orbios_earth/) · [press](https://orbios.net/press/)
 
 </div>
 
