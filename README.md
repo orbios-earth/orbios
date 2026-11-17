@@ -6,7 +6,7 @@
 
 **A living globe of the Earth.**
 
-[orbios.net](https://orbios.net) · [orbios.ru](https://orbios.ru) · [press / пресса](https://orbios.net/press/)
+[orbios.earth](https://orbios.earth) · [orbios.net](https://orbios.net) · [press](https://orbios.net/press/)
 
 </div>
 
@@ -20,11 +20,6 @@ The name is written **Orbios**. The software at the heart of it is **OrbiOS**.
 ## Where we are
 
 We are preparing the launch. We will tell you when there is something to show.
-
-## Об Orbios по-русски
-
-Orbios — живой глобус Земли. OrbiOS — его операционная система, программа, на которой он работает.
-Пишется Orbios, по-русски — Орбиос. Готовим запуск.
 
 ---
 
